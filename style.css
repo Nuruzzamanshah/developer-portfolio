@@ -16,6 +16,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .hafe{
     width: 50%;
@@ -37,4 +38,10 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
+}
+
+.big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
